@@ -7,6 +7,7 @@
 | 학습 경로 화면 연습 | Design | [열기](https://www.figma.com/design/1d3XvKcqXGvVO9Beixah0w) | 이미지 만들기 수업용. 게이미피케이션 학습 경로 화면을 도형·레이어로 직접 구성한 오리지널 디자인 |
 | 네이버 지도 역기획 | Slides (17장) | [열기](https://www.figma.com/slides/wVquJlhaG38cLlAKEazlw6) | 7개 항목 역기획 + 화면설계서 |
 | 네이버 지도 역기획 (직접 작성 덱) | Slides | [열기](https://www.figma.com/slides/NE9GOHgl7wUIebyTNf0Ff8) | 01 서비스 구조와 수익 슬라이드 작성·디자인 |
+| 예제 연습 | Design | [열기](https://www.figma.com/design/qBxlyaWuzmFacNfDFV0G1Y) | 이미지 만들기 수업 예제 연습 (상세 설명·이미지 추가 예정) |
 
 ## 문서
 
